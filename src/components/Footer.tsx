@@ -1,5 +1,5 @@
 import React from 'react'
-import { Heart, ArrowUp, Sparkles, ExternalLink } from 'lucide-react'
+import { ArrowUp, ExternalLink } from 'lucide-react'
 import './Footer.css'
 
 export const Footer: React.FC = () => {

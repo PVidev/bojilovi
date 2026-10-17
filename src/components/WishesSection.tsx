@@ -5,7 +5,6 @@ import {
   Search,
   Sparkles,
   CheckCircle2,
-  Users,
   Quote,
   ChevronDown,
 } from 'lucide-react'
