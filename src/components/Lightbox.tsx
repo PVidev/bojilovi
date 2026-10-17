@@ -1,10 +1,10 @@
-import React, { useEffect } from 'react'
+import React, { useEffect, useRef } from 'react'
 import { X, ChevronLeft, ChevronRight, Download } from 'lucide-react'
 import type { PhotoItem } from '../types'
 import './Lightbox.css'
 
 interface LightboxProps {
-  photo: PhotoItem | null
+  photo: PhotoItem
   photos: PhotoItem[]
   onClose: () => void
   onNavigate: (index: number) => void
@@ -16,23 +16,42 @@ export const Lightbox: React.FC<LightboxProps> = ({
   onClose,
   onNavigate,
 }) => {
-  if (!photo) return null
-
   const currentIndex = photos.findIndex((p) => p.id === photo.id)
+  const touchStartXRef = useRef<number | null>(null)
 
-  const handlePrev = (e: React.MouseEvent) => {
-    e.stopPropagation()
+  const handlePrev = (e?: React.MouseEvent) => {
+    e?.stopPropagation()
     const prevIndex = (currentIndex - 1 + photos.length) % photos.length
     onNavigate(prevIndex)
   }
 
-  const handleNext = (e: React.MouseEvent) => {
-    e.stopPropagation()
+  const handleNext = (e?: React.MouseEvent) => {
+    e?.stopPropagation()
     const nextIndex = (currentIndex + 1) % photos.length
     onNavigate(nextIndex)
   }
 
+  // Handle Touch Swipes for mobile
+  const handleTouchStart = (e: React.TouchEvent) => {
+    touchStartXRef.current = e.touches[0].clientX
+  }
+
+  const handleTouchEnd = (e: React.TouchEvent) => {
+    if (touchStartXRef.current === null) return
+    const diff = touchStartXRef.current - e.changedTouches[0].clientX
+    if (diff > 45) {
+      handleNext()
+    } else if (diff < -45) {
+      handlePrev()
+    }
+    touchStartXRef.current = null
+  }
+
   useEffect(() => {
+    // Disable background scroll while lightbox is open
+    document.body.style.overflow = 'hidden'
+    document.documentElement.style.overflow = 'hidden'
+
     const handleKeyDown = (e: KeyboardEvent) => {
       if (e.key === 'Escape') onClose()
       if (e.key === 'ArrowLeft') {
@@ -44,18 +63,30 @@ export const Lightbox: React.FC<LightboxProps> = ({
         onNavigate(nextIndex)
       }
     }
+
     window.addEventListener('keydown', handleKeyDown)
-    document.body.style.overflow = 'hidden'
 
     return () => {
       window.removeEventListener('keydown', handleKeyDown)
-      document.body.style.overflow = 'auto'
+      // Completely restore native mobile & desktop scrolling
+      document.body.style.removeProperty('overflow')
+      document.documentElement.style.removeProperty('overflow')
     }
-  }, [currentIndex, photos, onClose, onNavigate])
+  }, [currentIndex, photos.length, onClose, onNavigate])
 
   return (
-    <div className="lightbox-backdrop" onClick={onClose} role="dialog" aria-modal="true">
-      <div className="lightbox-container" onClick={(e) => e.stopPropagation()}>
+    <div
+      className="lightbox-backdrop"
+      onClick={onClose}
+      role="dialog"
+      aria-modal="true"
+    >
+      <div
+        className="lightbox-container"
+        onClick={(e) => e.stopPropagation()}
+        onTouchStart={handleTouchStart}
+        onTouchEnd={handleTouchEnd}
+      >
         <div className="lightbox-header">
           <div className="lightbox-counter">
             <span className="lightbox-badge">
@@ -123,4 +154,5 @@ export const Lightbox: React.FC<LightboxProps> = ({
     </div>
   )
 }
+
 export default Lightbox

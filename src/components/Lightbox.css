@@ -9,6 +9,7 @@
   justify-content: center;
   padding: 16px;
   animation: fadeIn 0.25s ease-out;
+  touch-action: none;
 }
 
 .lightbox-container {

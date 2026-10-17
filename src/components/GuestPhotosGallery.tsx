@@ -177,12 +177,14 @@ export const GuestPhotosGallery: React.FC = () => {
       </div>
 
       {/* Lightbox Modal */}
-      <Lightbox
-        photo={activePhoto}
-        photos={filteredPhotos}
-        onClose={() => setActivePhoto(null)}
-        onNavigate={handleNavigate}
-      />
+      {activePhoto && (
+        <Lightbox
+          photo={activePhoto}
+          photos={filteredPhotos}
+          onClose={() => setActivePhoto(null)}
+          onNavigate={handleNavigate}
+        />
+      )}
     </section>
   )
 }
