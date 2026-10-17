@@ -1,0 +1,1293 @@
+[
+    {
+        "id": "guest_6aa0f727558ab",
+        "name": "Ивана Георгиева",
+        "attending": true,
+        "partner": {
+            "hasPartner": true,
+            "name": "Денислав Георгиев"
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Уиски"
+        ],
+        "wineTypes": [],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": true,
+        "song": "",
+        "message": "Хайдеее, нямаме търпение, обичаме ви❤️",
+        "submittedAt": "2026-09-09T06:05:27+00:00"
+    },
+    {
+        "id": "guest_6aaab7wwwww5f",
+        "name": "Тихомир",
+        "attending": true,
+        "partner": {
+            "hasPartner": true,
+            "name": "Зорница"
+        },
+        "children": 0,
+        "menu": "standart",
+        "alcohol": ["Водка", "Уиски"],
+        "wineTypes": [""],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "",
+        "submittedAt": "2026-09-16T15:36:08+00:00"
+    },
+    {
+        "id": "guest_6aa0f7811309d",
+        "name": "Симона Димитрова",
+        "attending": true,
+        "partner": {
+            "hasPartner": true,
+            "name": "Йосиф Терзийски"
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Вино",
+            "Джин",
+            "Водка",
+            "Шампанско"
+        ],
+        "wineTypes": [
+            "Бяло вино",
+            "Червено вино",
+            "Розе"
+        ],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "Много ви обичам",
+        "submittedAt": "2026-09-09T06:06:57+00:00"
+    },
+    {
+        "id": "guest_6aa0f8157c2fa",
+        "name": "Руслана Петрова",
+        "attending": true,
+        "partner": {
+            "hasPartner": true,
+            "name": "Петър Петров"
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Вино"
+        ],
+        "wineTypes": [
+            "Бяло вино",
+            "Червено вино"
+        ],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": true,
+        "song": "",
+        "message": "🥳🥳🥳🥳🥳🥳",
+        "submittedAt": "2026-09-09T06:09:25+00:00"
+    },
+    {
+        "id": "guest_6aa0f8ba725b9",
+        "name": "Hristinka Garenova",
+        "attending": true,
+        "partner": {
+            "hasPartner": false,
+            "name": ""
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Друго"
+        ],
+        "wineTypes": [],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": true,
+        "accommodation": false,
+        "song": "",
+        "message": "Таз година булка ,догодина люлка и много щастие ,любов и здраве!!!",
+        "submittedAt": "2026-09-09T06:12:10+00:00"
+    },
+    {
+        "id": "guest_6aa0fa6ce4620",
+        "name": "Надя Евтимова",
+        "attending": true,
+        "partner": {
+            "hasPartner": true,
+            "name": "Мирослав Данов"
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Водка"
+        ],
+        "wineTypes": [],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "Успех в организацията! 😘",
+        "submittedAt": "2026-09-09T06:19:24+00:00"
+    },
+    {
+        "id": "guest_6aa0fb2fdba00",
+        "name": "Николай Лалов",
+        "attending": true,
+        "partner": {
+            "hasPartner": true,
+            "name": "Симона Драганова"
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Вино",
+            "Водка"
+        ],
+        "wineTypes": [
+            "Бяло вино"
+        ],
+        "otherAlcohol": "",
+        "allergies": "Нашето семейство ядем всичко!",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "Бъдете много здрави, много щастливи и много влюбени! Нека животът ви бъде споделен с разбирателство, топлина и искрена обич.",
+        "submittedAt": "2026-09-09T06:22:39+00:00"
+    },
+    {
+        "id": "guest_6aa0fb3de5ffe",
+        "name": "Ани Василева",
+        "attending": true,
+        "partner": {
+            "hasPartner": true,
+            "name": "Румен Николов"
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Вино",
+            "Водка"
+        ],
+        "wineTypes": [
+            "Бяло вино"
+        ],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": true,
+        "song": "",
+        "message": "Живи,здрави и благословенни",
+        "submittedAt": "2026-09-09T06:22:53+00:00"
+    },
+    {
+        "id": "guest_6aa0fb9f271ca",
+        "name": "Ирина Евтимова",
+        "attending": true,
+        "partner": {
+            "hasPartner": true,
+            "name": "Георги Евтимов"
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Ракия"
+        ],
+        "wineTypes": [],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "Успех в бъдеще !И много запомнящи се моменти на сватбата и за напред!",
+        "submittedAt": "2026-09-09T06:24:31+00:00"
+    },
+    {
+        "id": "guest_6aa0fba2d63ba",
+        "name": "Даниелс Сталинов",
+        "attending": true,
+        "partner": {
+            "hasPartner": true,
+            "name": "Ева Стоева"
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Вино",
+            "Водка"
+        ],
+        "wineTypes": [
+            "Бяло вино"
+        ],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": true,
+        "song": "",
+        "message": "Желаем ви безкрайна обич и разбирателство сладури .Бъдете много здрави и щастливи .❤️❤️❤️",
+        "submittedAt": "2026-09-09T06:24:34+00:00"
+    },
+    {
+        "id": "guest_6aa0fc2f105a2",
+        "name": "Даниела Гълъбова",
+        "attending": true,
+        "partner": {
+            "hasPartner": true,
+            "name": "Боян Цветков"
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Вино"
+        ],
+        "wineTypes": [
+            "Бяло вино"
+        ],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "Щастлив и благополучен семеен живот❤️",
+        "submittedAt": "2026-09-09T06:26:55+00:00"
+    },
+    {
+        "id": "guest_6aa0fd302d170",
+        "name": "Радослав Божилов",
+        "attending": true,
+        "partner": {
+            "hasPartner": true,
+            "name": "Радостина Спасова"
+        },
+        "children": 1,
+        "menu": "standard",
+        "alcohol": [
+            "Уиски",
+            "Ракия",
+            "Вино",
+            "Бира",
+            "Водка",
+            "Шампанско"
+        ],
+        "wineTypes": [
+            "Бяло вино"
+        ],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": true,
+        "accommodation": false,
+        "song": "",
+        "message": "С нетърпение очакваме сватбеният Ви ден,да прекараме един хубав празник с вас.Обичайте се цял живот,бъдете здрави и смирени.",
+        "submittedAt": "2026-09-09T06:31:12+00:00"
+    },
+    {
+        "id": "guest_6aa0ffd6f0305",
+        "name": "Адриан Григоров",
+        "attending": true,
+        "partner": {
+            "hasPartner": false,
+            "name": ""
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Уиски"
+        ],
+        "wineTypes": [],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "Честито! Бъдете здрави, влюбени и супер весело семейство. Гледайте си кефа, обичайте се на макс и си правете живота пълен купон.",
+        "submittedAt": "2026-09-09T06:42:30+00:00"
+    },
+    {
+        "id": "guest_6aa10006eecd1",
+        "name": "Веселин Найденов",
+        "attending": true,
+        "partner": {
+            "hasPartner": true,
+            "name": "Мария Станков"
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Бира"
+        ],
+        "wineTypes": [],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "",
+        "submittedAt": "2026-09-09T06:43:18+00:00"
+    },
+    {
+        "id": "guest_6aa102caadbfa",
+        "name": "MARIYA YAKIMOVA",
+        "attending": true,
+        "partner": {
+            "hasPartner": true,
+            "name": "Emil Nikolaev"
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Ракия",
+            "Вино"
+        ],
+        "wineTypes": [
+            "Бяло вино",
+            "Розе"
+        ],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": true,
+        "song": "",
+        "message": "❤️",
+        "submittedAt": "2026-09-09T06:55:06+00:00"
+    },
+    {
+        "id": "guest_6aa108d4a5dca",
+        "name": "Десислава Гълъбова",
+        "attending": true,
+        "partner": {
+            "hasPartner": true,
+            "name": "Григор Григоров"
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Ракия",
+            "Вино"
+        ],
+        "wineTypes": [
+            "Бяло вино"
+        ],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "Желаем Ви от сърце да се обичате и подкрепяте , да сте винаги рамо до рамо и да имате прекрасни мигове заедно !",
+        "submittedAt": "2026-09-09T07:20:52+00:00"
+    },
+    {
+        "id": "guest_6aa1124e7302c",
+        "name": "Кристиан Луканов",
+        "attending": true,
+        "partner": {
+            "hasPartner": true,
+            "name": "Радослава Иванова"
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Водка",
+            "Уиски"
+        ],
+        "wineTypes": [],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": true,
+        "song": "",
+        "message": "Желаем ви здраве, късмет и безброй красиви моменти!",
+        "submittedAt": "2026-09-09T08:01:18+00:00"
+    },
+    {
+        "id": "guest_6aa115acb81db",
+        "name": "Сем. Любка и Атанас Атанасови",
+        "attending": true,
+        "partner": {
+            "hasPartner": false,
+            "name": ""
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Вино"
+        ],
+        "wineTypes": [
+            "Бяло вино",
+            "Розе"
+        ],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "",
+        "submittedAt": "2026-09-09T08:15:40+00:00"
+    },
+    {
+        "id": "guest_6aa115c00e02a",
+        "name": "Таня Петрова",
+        "attending": true,
+        "partner": {
+            "hasPartner": false,
+            "name": ""
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Вино"
+        ],
+        "wineTypes": [
+            "Бяло вино"
+        ],
+        "otherAlcohol": "",
+        "allergies": "Инсулинова резистентност 😁",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "Да имате съвместен живот, изпълнен с приключения и радости! Да бъдете здрави!",
+        "submittedAt": "2026-09-09T08:16:00+00:00"
+    },
+    {
+        "id": "guest_6aa11917d11d8",
+        "name": "Ивелина Симеонова",
+        "attending": true,
+        "partner": {
+            "hasPartner": false,
+            "name": ""
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Вино"
+        ],
+        "wineTypes": [
+            "Бяло вино"
+        ],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "С нетърпение очаквам да видя как вие отваряте нова страница от вашата любов, как от малки деца, в момента ще станете съпрузи❤️",
+        "submittedAt": "2026-09-09T08:30:15+00:00"
+    },
+    {
+        "id": "guest_6aa11a108592e",
+        "name": "Elizabet Aleksandrova",
+        "attending": true,
+        "partner": {
+            "hasPartner": false,
+            "name": ""
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Вино"
+        ],
+        "wineTypes": [
+            "Бяло вино"
+        ],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "Пожелавам ви любов и разбирателство 🫶🏻",
+        "submittedAt": "2026-09-09T08:34:24+00:00"
+    },
+    {
+        "id": "guest_6aa1297b0ae46",
+        "name": "Крис Арсов",
+        "attending": true,
+        "partner": {
+            "hasPartner": false,
+            "name": ""
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Вино",
+            "Джин",
+            "Шампанско"
+        ],
+        "wineTypes": [
+            "Розе"
+        ],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": true,
+        "song": "",
+        "message": "Пожелавам ви здраве, щастие, благополучие и безкрайна любов.",
+        "submittedAt": "2026-09-09T09:40:11+00:00"
+    },
+    {
+        "id": "guest_6aa137c235189",
+        "name": "Людмил Арсов",
+        "attending": true,
+        "partner": {
+            "hasPartner": true,
+            "name": "Светла Арсова"
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Вино"
+        ],
+        "wineTypes": [
+            "Бяло вино"
+        ],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": true,
+        "song": "",
+        "message": "",
+        "submittedAt": "2026-09-09T10:41:06+00:00"
+    },
+    {
+        "id": "guest_6aa1657b32b42",
+        "name": "Кристиана Виячева",
+        "attending": true,
+        "partner": {
+            "hasPartner": true,
+            "name": "Мартин Динчев"
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Вино"
+        ],
+        "wineTypes": [
+            "Бяло вино"
+        ],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": true,
+        "song": "",
+        "message": "Пожелавам ви любов, която с всеки изминал ден става по-силна, доверие, което ви свързва още по-здраво, и безброй щастливи мигове, които да споделяте заедно.",
+        "submittedAt": "2026-09-09T13:56:11+00:00"
+    },
+    {
+        "id": "guest_6aa179c548fd6",
+        "name": "Иванка Гълъбова",
+        "attending": true,
+        "partner": {
+            "hasPartner": false,
+            "name": ""
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Вино"
+        ],
+        "wineTypes": [
+            "Бяло вино"
+        ],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "Дълголетие и щастлив семеен живот",
+        "submittedAt": "2026-09-09T15:22:45+00:00"
+    },
+    {
+        "id": "guest_6aa2cb76a9704",
+        "name": "Емилия и Валентин Милеви",
+        "attending": false,
+        "partner": {
+            "hasPartner": false,
+            "name": ""
+        },
+        "children": 0,
+        "menu": "",
+        "alcohol": [],
+        "wineTypes": [],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "",
+        "submittedAt": "2026-09-10T15:23:34+00:00"
+    },
+    {
+        "id": "guest_6aa2f628b67b0",
+        "name": "Елизабет Георгиева",
+        "attending": false,
+        "partner": {
+            "hasPartner": false,
+            "name": ""
+        },
+        "children": 0,
+        "menu": "",
+        "alcohol": [],
+        "wineTypes": [],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "Съжалявам, че поради отсъствието ми от страната няма да имам възможност да присъствам на Вашия специален ден. Пожелавам Ви от сърце щастлив семеен път, изпълнен с обич, разбирателство и много красиви мигове заедно!",
+        "submittedAt": "2026-09-10T18:25:44+00:00"
+    },
+    {
+        "id": "guest_6aa3bf81db020",
+        "name": "Александър Георгиев",
+        "attending": true,
+        "partner": {
+            "hasPartner": true,
+            "name": "Милена Стоянова"
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Ракия",
+            "Бира",
+            "Уиски",
+            "Вино",
+            "Джин"
+        ],
+        "wineTypes": [
+            "Бяло вино",
+            "Червено вино",
+            "Розе"
+        ],
+        "otherAlcohol": "",
+        "allergies": "Към алкохола",
+        "transport": false,
+        "accommodation": true,
+        "song": "",
+        "message": "Другата година близнета",
+        "submittedAt": "2026-09-11T08:44:49+00:00"
+    },
+    {
+        "id": "guest_6aa4587b2d8bc",
+        "name": "Таня Божилова",
+        "attending": true,
+        "partner": {
+            "hasPartner": true,
+            "name": "Станислав Божилов"
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Вино"
+        ],
+        "wineTypes": [
+            "Бяло вино"
+        ],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": true,
+        "song": "",
+        "message": "Бъдете много щастливи!И нека всички трудности и изпитания през които преминавате правят по силна любовтта Ви ,и по истински чувствата  Ви,и Ви направят стойностни и истински хора с добри сърца каквито сте!❤️",
+        "submittedAt": "2026-09-11T19:37:31+00:00"
+    },
+    {
+        "id": "guest_6aa45a28affc5",
+        "name": "Теодора Минчева",
+        "attending": true,
+        "partner": {
+            "hasPartner": true,
+            "name": "Иван Минчев"
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Вино"
+        ],
+        "wineTypes": [
+            "Червено вино"
+        ],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "Пожелаваме най-прекрасната сватба! 🤍",
+        "submittedAt": "2026-09-11T19:44:40+00:00"
+    },
+    {
+        "id": "guest_6aa505e5edd70",
+        "name": "Антонина Клямбова",
+        "attending": false,
+        "partner": {
+            "hasPartner": false,
+            "name": ""
+        },
+        "children": 0,
+        "menu": "",
+        "alcohol": [],
+        "wineTypes": [],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "Пожелавам ви един незабравим ден! ❤️❤️❤️",
+        "submittedAt": "2026-09-12T07:57:25+00:00"
+    },
+    {
+        "id": "guest_6aa53a3920e5b",
+        "name": "Красимир божилов",
+        "attending": true,
+        "partner": {
+            "hasPartner": false,
+            "name": ""
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Ракия"
+        ],
+        "wineTypes": [],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "",
+        "submittedAt": "2026-09-12T11:40:41+00:00"
+    },
+    {
+        "id": "guest_6aa53e61b807c",
+        "name": "Александър Сашов",
+        "attending": true,
+        "partner": {
+            "hasPartner": false,
+            "name": ""
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Ракия",
+            "Бира"
+        ],
+        "wineTypes": [],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "Да бъдете винаги щастливи и усмихнати!!",
+        "submittedAt": "2026-09-12T11:58:25+00:00"
+    },
+    {
+        "id": "guest_6aa5464e42867",
+        "name": "Алберто Колев",
+        "attending": true,
+        "partner": {
+            "hasPartner": true,
+            "name": "Дженифър Георгиева"
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Вино"
+        ],
+        "wineTypes": [
+            "Розе"
+        ],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "Благодарим ви ! Ще се радваме да бъдем част от вашия празник!",
+        "submittedAt": "2026-09-12T12:32:14+00:00"
+    },
+    {
+        "id": "guest_6aa55c2e31103",
+        "name": "Емануел Стоянов",
+        "attending": true,
+        "partner": {
+            "hasPartner": true,
+            "name": "Габриела Стоянова"
+        },
+        "children": 1,
+        "menu": "standard",
+        "alcohol": [
+            "Вино",
+            "Водка"
+        ],
+        "wineTypes": [
+            "Бяло вино"
+        ],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": true,
+        "song": "",
+        "message": "Пожелаваме ви семеен живот, пълен с хиляди малки щастливи моменти – споделени сутрешни кафета, сбъднати мечти, вълнуващи пътувания и безброй поводи да се държите за ръка!",
+        "submittedAt": "2026-09-12T14:05:34+00:00"
+    },
+    {
+        "id": "guest_6aa599a2682e1",
+        "name": "Елена Стойчева",
+        "attending": true,
+        "partner": {
+            "hasPartner": true,
+            "name": "Иван Стойчев"
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Вино",
+            "Уиски"
+        ],
+        "wineTypes": [
+            "Бяло вино"
+        ],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "От сърце Ви желаем дълъг, щастлив семеен живот! ❤️",
+        "submittedAt": "2026-09-12T18:27:46+00:00"
+    },
+    {
+        "id": "guest_6aa664fa2e4bf",
+        "name": "Светослав Красимиров",
+        "attending": true,
+        "partner": {
+            "hasPartner": true,
+            "name": "Василена Красимирова"
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Ракия",
+            "Уиски",
+            "Бира",
+            "Вино"
+        ],
+        "wineTypes": [
+            "Бяло вино"
+        ],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": true,
+        "song": "",
+        "message": "",
+        "submittedAt": "2026-09-13T08:55:22+00:00"
+    },
+    {
+        "id": "guest_6aa6767eba3df",
+        "name": "Мария Колева",
+        "attending": true,
+        "partner": {
+            "hasPartner": true,
+            "name": "Илия Клямбов"
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Ракия"
+        ],
+        "wineTypes": [],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "❤️❤️❤️",
+        "submittedAt": "2026-09-13T10:10:06+00:00"
+    },
+    {
+        "id": "guest_6aa7adf273279",
+        "name": "Наско Свиленов",
+        "attending": true,
+        "partner": {
+            "hasPartner": true,
+            "name": "Елена Милева"
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Ракия",
+            "Бира",
+            "Водка"
+        ],
+        "wineTypes": [],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": true,
+        "song": "",
+        "message": "",
+        "submittedAt": "2026-09-14T08:18:58+00:00"
+    },
+    {
+        "id": "guest_6aa7f92d77087",
+        "name": "Радостин\/Кум",
+        "attending": true,
+        "partner": {
+            "hasPartner": true,
+            "name": "Богомила\/Кума"
+        },
+        "children": 1,
+        "menu": "standard",
+        "alcohol": [
+            "Ракия",
+            "Бира",
+            "Водка"
+        ],
+        "wineTypes": [],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": true,
+        "accommodation": true,
+        "song": "",
+        "message": "Само здраве и безброй години щастие !!!",
+        "submittedAt": "2026-09-14T13:39:57+00:00"
+    },
+    {
+        "id": "guest_6aa7f9e3583b7",
+        "name": "Георги Евтимов\/Кумчето",
+        "attending": true,
+        "partner": {
+            "hasPartner": true,
+            "name": "Милена Савова"
+        },
+        "children": 1,
+        "menu": "standard",
+        "alcohol": [
+            "Друго"
+        ],
+        "wineTypes": [],
+        "otherAlcohol": "Мляко",
+        "allergies": "",
+        "transport": true,
+        "accommodation": true,
+        "song": "",
+        "message": "Много здраве и да направите едно другарче да си играем заедно🍀!",
+        "submittedAt": "2026-09-14T13:42:59+00:00"
+    },
+    {
+        "id": "guest_6aa825685958b",
+        "name": "Гергана и Красен Коеви",
+        "attending": true,
+        "partner": {
+            "hasPartner": false,
+            "name": ""
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Вино"
+        ],
+        "wineTypes": [
+            "Бяло вино"
+        ],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": true,
+        "accommodation": false,
+        "song": "",
+        "message": "",
+        "submittedAt": "2026-09-14T16:48:40+00:00"
+    },
+    {
+        "id": "guest_6aa830aff04b3",
+        "name": "Поли Божилова",
+        "attending": true,
+        "partner": {
+            "hasPartner": true,
+            "name": "Мартин Божилов"
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Вино"
+        ],
+        "wineTypes": [
+            "Розе"
+        ],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "Пожелавам ви любов, по-силна от стихия. Пожелавам ви приятелство, по-силно от война. Пожелавам ви хармония... като Ин и Ян. Никога не се отказвайте един от друг, дори и да нямате сили... не се пускайте. Бъдете винаги заедно. 😘",
+        "submittedAt": "2026-09-14T17:36:47+00:00"
+    },
+    {
+        "id": "guest_6aa83232cce7a",
+        "name": "Антон Божилов",
+        "attending": true,
+        "partner": {
+            "hasPartner": false,
+            "name": ""
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Уиски"
+        ],
+        "wineTypes": [],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "П-ът\nО-бич\nЖ-елание\nЕ-жедневно\nЛ-юбов\nА-тмосфера\nН-авсякъде\nИ-истинска\nЕ-дно цяло",
+        "submittedAt": "2026-09-14T17:43:14+00:00"
+    },
+    {
+        "id": "guest_6aa8dab7b2334",
+        "name": "Елена Киркова",
+        "attending": false,
+        "partner": {
+            "hasPartner": false,
+            "name": ""
+        },
+        "children": 0,
+        "menu": "",
+        "alcohol": [],
+        "wineTypes": [],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "Няма да бъда в България. Радвам се за вас, бъдете много щастливи и се обичайте. Весел и забавен празник.",
+        "submittedAt": "2026-09-15T05:42:15+00:00"
+    },
+    {
+        "id": "guest_6aa94293a7f33",
+        "name": "Емилия Божилова",
+        "attending": true,
+        "partner": {
+            "hasPartner": true,
+            "name": "Румен Божилов"
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Ракия",
+            "Вино"
+        ],
+        "wineTypes": [
+            "Бяло вино"
+        ],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "Благодаря за вниманието",
+        "submittedAt": "2026-09-15T13:05:23+00:00"
+    },
+    {
+        "id": "guest_6aa983ea43a09",
+        "name": "Владимир Гълъбов",
+        "attending": true,
+        "partner": {
+            "hasPartner": false,
+            "name": ""
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Бира",
+            "Вино"
+        ],
+        "wineTypes": [
+            "Бяло вино"
+        ],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "",
+        "submittedAt": "2026-09-15T17:44:10+00:00"
+    },
+    {
+        "id": "guest_6aaa240e3f6f1",
+        "name": "Петромир Кънчев",
+        "attending": true,
+        "partner": {
+            "hasPartner": false,
+            "name": ""
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Уиски",
+            "Вино"
+        ],
+        "wineTypes": [
+            "Червено вино"
+        ],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": true,
+        "accommodation": false,
+        "song": "",
+        "message": "Любовта ви днес да остане такава през десетилетията. Децата, кариерата и домът да отнемат нещо от нея. Най-прекрасния звук в ушите ви да остане този от окучващата се ключалка, когато другия се прибира. Прегръщам ви!",
+        "submittedAt": "2026-09-16T05:07:26+00:00"
+    },
+    {
+        "id": "guest_6aaab7681f25f",
+        "name": "Мария Петрова",
+        "attending": false,
+        "partner": {
+            "hasPartner": false,
+            "name": ""
+        },
+        "children": 0,
+        "menu": "",
+        "alcohol": [],
+        "wineTypes": [],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "",
+        "submittedAt": "2026-09-16T15:36:08+00:00"
+    },
+    {
+        "id": "guest_6aaf91f085b51",
+        "name": "Веселин Ромелов",
+        "attending": true,
+        "partner": {
+            "hasPartner": true,
+            "name": "Калина Ромелова"
+        },
+        "children": 1,
+        "menu": "standard",
+        "alcohol": [
+            "Водка",
+            "Ракия"
+        ],
+        "wineTypes": [],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": true,
+        "song": "",
+        "message": "Бъдете безкрайно щастливи ",
+        "submittedAt": "2026-09-20T07:57:36+00:00"
+    },
+    {
+        "id": "guest_6aafe7c421bce",
+        "name": "Ралица Арсова",
+        "attending": true,
+        "partner": {
+            "hasPartner": true,
+            "name": "Кирил"
+        },
+        "children": 0,
+        "menu": "standard",
+        "alcohol": [
+            "Вино"
+        ],
+        "wineTypes": [
+            "Бяло вино"
+        ],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "Нямам търпение да изживея с вас най-специалния ви ден в живота!🫶",
+        "submittedAt": "2026-09-20T14:03:48+00:00"
+    },
+    {
+        "id": "guest_6aaab7hhhhh5f",
+        "name": "Мирослав",
+        "attending": true,
+        "partner": {
+            "hasPartner": false,
+            "name": ""
+        },
+        "children": 0,
+        "menu": "standart",
+        "alcohol": ["уиски"],
+        "wineTypes": [],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "",
+        "submittedAt": "2026-09-16T15:36:08+00:00"
+    },
+    {
+        "id": "guest_6aaab7eeeee5f",
+        "name": "Оля",
+        "attending": true,
+        "partner": {
+            "hasPartner": true,
+            "name": "Александра"
+        },
+        "children": 0,
+        "menu": "standart",
+        "alcohol": ["Вино"],
+        "wineTypes": ["Бяло вино"],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "",
+        "submittedAt": "2026-09-16T15:36:08+00:00"
+    },
+    {
+        "id": "guest_6ab0e22c81b47",
+        "name": "Даниела Велкова",
+        "attending": false,
+        "partner": {
+            "hasPartner": false,
+            "name": ""
+        },
+        "children": 0,
+        "menu": "",
+        "alcohol": [],
+        "wineTypes": [],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "Пожелаваме ви дълъг, щастлив и красив семеен път, изпълнен с обич, разбирателство, уважение и мнооооого щастливи моменти!!!",
+        "submittedAt": "2026-09-21T07:52:12+00:00"
+    },
+    {
+        "id": "guest_6ab1732c323b0",
+        "name": "Дияна Гълъбова",
+        "attending": false,
+        "partner": {
+            "hasPartner": false,
+            "name": ""
+        },
+        "children": 0,
+        "menu": "",
+        "alcohol": [],
+        "wineTypes": [],
+        "otherAlcohol": "",
+        "allergies": "",
+        "transport": false,
+        "accommodation": false,
+        "song": "",
+        "message": "",
+        "submittedAt": "2026-09-21T18:10:52+00:00"
+    }
+]

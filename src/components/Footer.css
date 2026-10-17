@@ -1,0 +1,122 @@
+.footer-section {
+  position: relative;
+  padding: 70px 20px 40px;
+  background:
+    radial-gradient(circle at 50% 100%, rgba(184, 150, 110, 0.22), transparent 70%),
+    linear-gradient(180deg, #f7f2ea 0%, #ede3d3 100%);
+  border-top: 1px solid rgba(191, 164, 128, 0.35);
+  text-align: center;
+  overflow: hidden;
+}
+
+.footer-container {
+  position: relative;
+  z-index: 2;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.footer-monogram {
+  font-size: clamp(3.2rem, 8vw, 4.8rem);
+  font-weight: 400;
+  color: var(--color-text-main);
+  line-height: 1;
+  margin-bottom: 4px;
+}
+
+.footer-family {
+  font-size: 1.25rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--color-gold-dark);
+  margin-bottom: 6px;
+}
+
+.footer-date {
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+}
+
+.footer-attribution {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 6px;
+  font-size: 0.96rem;
+  color: var(--color-text-main);
+  background: rgba(255, 255, 255, 0.75);
+  border: 1px solid rgba(191, 164, 128, 0.4);
+  padding: 14px 24px;
+  border-radius: var(--radius-full);
+  margin: 28px 0 32px;
+  box-shadow: var(--shadow-sm);
+  line-height: 1.5;
+}
+
+.footer-author-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  color: var(--color-gold-dark);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  transition: color 0.2s ease;
+}
+
+.footer-author-link:hover {
+  color: #5c452e;
+}
+
+.footer-ext-icon {
+  opacity: 0.7;
+}
+
+.footer-heart-symbol {
+  font-size: 1.1rem;
+  display: inline-block;
+  animation: pulseHeart 2s infinite ease-in-out;
+}
+
+@keyframes pulseHeart {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.22);
+  }
+}
+
+.footer-scroll-top-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 22px;
+  border-radius: var(--radius-full);
+  background: rgba(255, 255, 255, 0.6);
+  border: 1px solid rgba(191, 164, 128, 0.35);
+  font-size: 0.84rem;
+  font-weight: 500;
+  color: var(--color-text-main);
+  transition: all 0.2s ease;
+  margin-bottom: 24px;
+}
+
+.footer-scroll-top-btn:hover {
+  background: #fff;
+  border-color: var(--color-gold);
+  transform: translateY(-2px);
+}
+
+.footer-copy {
+  font-size: 0.8rem;
+  color: var(--color-text-light);
+}
+
+@media (max-width: 600px) {
+  .footer-attribution {
+    border-radius: var(--radius-md);
+    padding: 12px 16px;
+    font-size: 0.88rem;
+  }
+}
